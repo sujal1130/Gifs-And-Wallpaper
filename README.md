@@ -22,7 +22,6 @@ This is the perfect place to find them all! 🚀
 
 📸✨ Here’s **my preferred image and GIF**. Feel free to add your favorites and contribute to the collection! 🎨🎞️
 
-
-<div align="center"> <img src="https://media.giphy.com/media/jt7bAtEijhurm/giphy.gif" width="250" alt="Share & Support"/> </div>
+ <img src="https://media.giphy.com/media/jt7bAtEijhurm/giphy.gif" width="250" alt="Share & Support"/> 
 
 **🚀 Enjoy, Share & Keep Creating! 🎭🎨**
