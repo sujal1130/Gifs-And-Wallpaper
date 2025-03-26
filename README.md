@@ -24,3 +24,5 @@ This is the perfect place to find them all! 🚀
 
 
 <div align="center"> <img src="https://media.giphy.com/media/jt7bAtEijhurm/giphy.gif" width="250" alt="Share & Support"/> </div>
+
+**🚀 Enjoy, Share & Keep Creating! 🎭🎨**
