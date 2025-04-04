@@ -2,7 +2,7 @@
 
 📂 **_Welcome to the Gifs And Wallpapers Repo!_**
 
-✨ A One-Stop Destination for Stunning GIFs & Wallpapers! ✨
+✨ A One-Stop Destination for Stunning **GIFs & Wallpapers!** ✨
 
 ## 📌 About This Repository :-
 
@@ -24,7 +24,8 @@ This is the perfect place to find them all! 🚀
 
  <img src="https://media.giphy.com/media/jt7bAtEijhurm/giphy.gif" width="250" alt="Share & Support"/> 
 
- 📤 How to Contribute
+## 📤 How to Contribute
+ 
 Fork the repository 🍴
 
 Add your favorite GIF or wallpaper in the appropriate folder 📁
