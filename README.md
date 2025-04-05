@@ -16,9 +16,9 @@
 
 **✅ High-quality static wallpapers 🖼️**
 
-**Funny memes 😂**
+**✅ Funny memes 😂**
 
-**Reaction GIFs 🤔😲**
+**✅ Reaction GIFs 🤔😲**
 
 This is the perfect place to find them all! 🚀
 
