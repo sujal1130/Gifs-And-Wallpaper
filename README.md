@@ -48,5 +48,5 @@
 
 ## 🚀 Enjoy, Share & Keep Creating! 🎭🎨
 
-Let this repo be a spark for your creativity.
-**Star 🌟 this project,** share it with others, and keep contributing **amazing visuals**!
+✨ Let this repo be a spark for your creativity 💡🎨.
+**Star 🌟 this project,** share it with others 🔄, and keep contributing **amazing visuals** 🖼️🚀!
