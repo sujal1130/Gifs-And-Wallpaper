@@ -36,13 +36,13 @@
 
 ## 📤 How to Contribute
  
-**Fork the repository 🍴**
+**🍴 Fork the repository 🍴**
 
-**Add your favorite GIF or wallpaper in the appropriate folder 📁**
+**📁 Add your favorite GIF or wallpaper in the appropriate folder 📁**
 
-**Create a pull request ✅**
+**✅ Create a pull request ✅**
 
-**Spread the creativity! 🎨**
+**🎨 Spread the creativity! 🎨**
 
 ---
 
