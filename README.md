@@ -1,6 +1,6 @@
 <h1> 🎨 Gifs & Wallpapers Repository </h1>
 
-📂 **_Welcome to the Gifs And Wallpapers Repo!_**
+📂 **_Welcome to the ultimate collection of GIFs & Wallpapers!_**
 
 ✨ A One-Stop Destination for Stunning **GIFs & Wallpapers!** ✨
 
