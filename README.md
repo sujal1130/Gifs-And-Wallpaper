@@ -10,6 +10,8 @@
 
 > 📁 This repository is designed to provide a **centralized place for easily accessing and sharing high-quality images 🖼️ and GIFs 🎞️.** Whether you're looking for:🔍📸
 
+---
+
 ### 🎯 You’ll find:
 
 **✅ Funny memes 😂**
