@@ -1,8 +1,8 @@
 <h1> 🎨 Gifs & Wallpapers Repository </h1>
 
-📂 **_Welcome to the ultimate collection of GIFs & Wallpapers!_**
-
-✨ A one-stop destination for stunning visuals and creative inspiration. ✨
+> 📂 **_Welcome to the ultimate collection of GIFs & Wallpapers!_**
+>
+> ✨ A one-stop destination for stunning visuals and creative inspiration. ✨
 
 ---
 
