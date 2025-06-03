@@ -2,7 +2,7 @@
 
 📂 **_Welcome to the ultimate collection of GIFs & Wallpapers!_**
 
-✨ A One-Stop Destination for Stunning **GIFs & Wallpapers!** ✨
+✨ A one-stop destination for stunning visuals and creative inspiration. ✨
 
 ---
 
