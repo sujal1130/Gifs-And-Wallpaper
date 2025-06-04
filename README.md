@@ -34,7 +34,9 @@
 
 > 📸✨ Here’s **my preferred image and GIF**. Feel free to add your favorites and contribute to the collection! 🎨🎞️
 
- <img src="https://media.giphy.com/media/jt7bAtEijhurm/giphy.gif" width="250" alt="Share & Support"/> 
+ <p align="center">
+  <img src="https://media.giphy.com/media/jt7bAtEijhurm/giphy.gif" width="250" alt="Sample GIF"/>
+</p> 
 
 ---
 
