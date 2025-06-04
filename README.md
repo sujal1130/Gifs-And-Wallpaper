@@ -38,7 +38,7 @@
   <img src="https://media.giphy.com/media/jt7bAtEijhurm/giphy.gif" width="250" alt="Sample GIF"/>
 </p> 
 
-🎨✨ **We welcome your creativity!** Add your favorite images or GIFs to help grow this awesome collection.
+> 🎨✨ **We welcome your creativity!** Add your favorite images or GIFs to help grow this awesome collection.
 
 ---
 
