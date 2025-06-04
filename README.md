@@ -44,7 +44,7 @@
 
 ## 📤 How to Contribute :-
  
-**🍴 Fork the repository 🍴**
+1. 🍴 **Fork** this repository 
 
 **📁 Add your favorite GIF or wallpaper in the appropriate folder 📁**
 
