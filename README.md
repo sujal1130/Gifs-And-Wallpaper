@@ -46,7 +46,7 @@
  
 1. 🍴 **Fork** this repository 
 
-**📁 Add your favorite GIF or wallpaper in the appropriate folder 📁**
+2. 📁 **Add** your GIFs or wallpapers to the appropriate folder 
 
 **✅ Create a pull request ✅**
 
