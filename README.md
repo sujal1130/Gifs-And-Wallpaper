@@ -48,7 +48,7 @@
 
 2. 📁 **Add** your GIFs or wallpapers to the appropriate folder 
 
-**✅ Create a pull request ✅**
+3. ✅ **Create a pull request** 
 
 **🎨 Spread the creativity! 🎨**
 
