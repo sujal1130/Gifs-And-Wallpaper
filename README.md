@@ -50,7 +50,7 @@
 
 3. ✅ **Create a pull request** 
 
-**🎨 Spread the creativity! 🎨**
+4. 🎉 **Celebrate** your contribution to the creative world!
 
 ---
 
