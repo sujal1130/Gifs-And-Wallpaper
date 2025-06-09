@@ -57,6 +57,7 @@
 ## 🚀 Enjoy, Share & Keep Creating! 🎭🎨
 
 ✨ Let this repository be a **launchpad for your visual imagination**. 💡🎨.
+
 🌟 **Star** the repo
 🔄 **Share** it with others  
 💡 **Contribute** more amazing visuals
