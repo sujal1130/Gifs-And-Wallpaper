@@ -54,7 +54,7 @@
 
 ---
 
-## 🚀 Enjoy, Share & Keep Creating! 🎭🎨
+## 🚀 Enjoy, Share & Keep Creating! 
 
 ✨ Let this repository be a **launchpad for your visual imagination**. 💡🎨.
 
