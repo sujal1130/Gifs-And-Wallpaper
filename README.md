@@ -67,3 +67,7 @@
 > 🎭 Creativity is contagious—spread it everywhere! 🎨
 
 ---
+
+<p align="center">
+  Made with ❤️ for all visual creators and aesthetic lovers!
+</p>
